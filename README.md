@@ -1,4 +1,4 @@
-##  Employee Attendance Management Application
+##  Employee Management Application
 
 Note: For ASP.NET MVC 5 , EntityFramework.6.2.0 
 
